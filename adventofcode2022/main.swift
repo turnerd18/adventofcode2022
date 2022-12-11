@@ -9,5 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
-Day6.main()
+Day7.main()
 
